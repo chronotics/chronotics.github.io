@@ -18,7 +18,7 @@ Chronotics provide GUI environment for users. You can turn your ideas into solut
  - validation
 Chronotics provides more than 100 basic libraries with which you can create most of data analysis flows. Moreover, you can refer and modify basic workflows that will be helpful to speed up your productivity.
 ## 4. Custom library with multiple languages support
-You can implement your own algorithm and utilize it with multiple language support if you are an expert in programming. Most popular languages are "R" and "Python" that are compatible with BRIQUE Analytics. R, Python, Scala, Java, C/C++ are currently supported.
+You can implement your own algorithm and utilize it with multiple language support if you are an expert in programming. Most popular languages are "R" and "Python" that are compatible with Chronotics. R, Python, Scala, Java, C/C++ are currently supported.
 ## 5. Interface with Data Prep.
 Chron Data Prep. is the independant system for data cleaning during data analysis process. You can increase the accuracy and performance of your analysis model by using effective data preprocessing. Chron Prep. would be very helpful for it because you can handle large size of data with various numeric functions and matrix operations.
 ## 6. REST APIs for data analysis

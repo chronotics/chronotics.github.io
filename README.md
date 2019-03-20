@@ -4,7 +4,7 @@
 We live in an increasingly data-driven society, in which information is becoming as much of a currency as money. Many companies want to gain bisiness insight from digital resources to solve business challenges and create competitive advantage. 
 However, it is not easy to achieve it. First of all, actionable data should be defined, organized and analyzed, moreover, these kind of tasks could be time consuming and need expertise.
 
-BRIQUE Analytics will help you to achieve the above mentioned. You can easily gather and analyze data with graphical tools that BRIQUE provides as default or shared by other data scientist. Moreover, you can easily deploy and run your algorithm with BRIQUE Analytics.
+Chronotics will help you to achieve the above mentioned. You can easily gather and analyze data with graphical tools that Chronotics provides as default or shared by other data scientist. Moreover, you can easily deploy and run your algorithm with Chronotics.
 
 # Main Features
 ## 1. Data Access
@@ -22,12 +22,12 @@ You can implement your own algorithm and utilize it with multiple language suppo
 ## 5. Interface with Data Prep.
 Chron Data Prep. is the independant system for data cleaning during data analysis process. You can increase the accuracy and performance of your analysis model by using effective data preprocessing. Chron Prep. would be very helpful for it because you can handle large size of data with various numeric functions and matrix operations.
 ## 6. REST APIs for data analysis
-You can use provided APIs for the interface with other solutions, for example, you can easily make your own mobile or web applications based on our API service. BRIQUE Analytics can be utilized like a data anlalysis tool.
+You can use provided APIs for the interface with other solutions, for example, you can easily make your own mobile or web applications based on our API service. Chronotics can be utilized like a data anlalysis tool.
 ## 7. Ready for run-time environment
 ### For a lightweight system
-You can quickly embedd data analysis functions to your solution based on BRIQUE Analytics's virtual environment.
+You can quickly embedd data analysis functions to your solution based on Chronotics's virtual environment.
 ### For a distributed system and hardware accelaration
-Each analytics library can be executed on the distributed system. Therefore, BRIQUE Analytics can also maximize hardware performance. 
+Each analytics library can be executed on the distributed system. Therefore, Chronotics can also maximize hardware performance. 
 ## 8. High availability
 ## 9. Easy maintenance
 You can monitor and manage services on the web. (plan: We provide the integrated solution for easy maintenance.)
@@ -40,4 +40,4 @@ You can monitor and manage services on the web. (plan: We provide the integrated
  - Quck preparation of data set for analysis
  - Filters and their combination to search data
 ## 3. High availability
- - BRIQUE Analytics is based on distributed system, so you can easily scale out your system.
+ - Chronotics is based on distributed system, so you can easily scale out your system.

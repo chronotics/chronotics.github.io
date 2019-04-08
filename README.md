@@ -1,7 +1,6 @@
 # Try to use Chronotics
 We live in an increasingly data-driven society, in which information is becoming as much of a currency as money. Many companies want to gain bisiness insight from digital resources to solve business challenges and create competitive advantage. 
 However, it is not easy to achieve it. First of all, actionable data should be defined, organized and analyzed, moreover, these kind of tasks could be time consuming and need expertise.
-
 Chronotics will help you to achieve the above mentioned. You can easily gather and analyze data with graphical tools that Chronotics provides as default or shared by other data scientist. Moreover, you can easily deploy and run your algorithm with Chronotics.
 
 # Main Features
